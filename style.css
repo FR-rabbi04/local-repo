@@ -1,0 +1,15 @@
+body{
+    background-color: bisque;
+}
+h1{
+    color: aquamarine;
+    background-color: black;
+}
+p{
+    color: red;
+    font-size: 25px;
+}
+div{
+    color: yellow;
+    font-size: 25px;
+}
